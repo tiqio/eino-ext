@@ -1,4 +1,4 @@
-module github.com/cloudwego/eino-ext/components/model/openairesponse
+module github.com/tiqio/eino-ext/components/model/openairesponse
 
 go 1.24.0
 
